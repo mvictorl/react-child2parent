@@ -1,0 +1,14 @@
+.parent-box {
+  background-color: lightgreen;
+  border-radius: 5px;
+  padding: 1px 10px;
+}
+
+.child-box {
+  color: white;
+  background-color: green;
+  border-radius: 5px;
+  border: 2px solid black;
+  padding: 10px 10px;
+  margin: 10px;
+}
